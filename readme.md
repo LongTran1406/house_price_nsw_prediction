@@ -23,6 +23,7 @@ It is designed for both normal users exploring house prices and real estate comp
 
 ## 📁 Project Workflow
 
+![NSW House Price Prediction System](nsw_house_price_prediction_system.png)
 
 ---
 
