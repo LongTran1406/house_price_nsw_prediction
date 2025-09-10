@@ -95,6 +95,7 @@ python app.py
 ```
 
 ## 📁 Project Architecture & Data Flow
+```text
 ├── .env
 ├── Dockerfile
 ├── app-etl
@@ -165,12 +166,7 @@ python app.py
 │   ├── analysis.html
 │   ├── home.html
 │   └── prediction.html
-
-
-**Access the application:**
-- 🌐 **UI Dashboard**: http://localhost:8050
-- 🔌 **Inference API**: http://localhost:5001
-
+```
 
 ## 📊 Data & Insights
 
