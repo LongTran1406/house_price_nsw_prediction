@@ -21,10 +21,8 @@ It is designed for both normal users exploring house prices and real estate comp
 
 ---
 
-## 📁 Project Architecture
-*(Will be added later)*
+## 📁 Project Workflow
 
-*Only essential files and directories are shown for clarity.*
 
 ---
 
